@@ -2,6 +2,7 @@
 
   <PropertyGroup>
 		<TargetFrameworks>net8.0-windows;net472</TargetFrameworks>
+		<GenerateErrorForMissingTargetingPacks>false</GenerateErrorForMissingTargetingPacks>
   </PropertyGroup>
 
   <ItemGroup>
